@@ -15,7 +15,7 @@ Sign-Up on Infura and add Infura Key
 
 ![trufflejs](https://user-images.githubusercontent.com/25963228/49644885-bfa3d600-fa3b-11e8-9ebd-34c6a3f59be3.png)
 
-### Update AirDrop.js
+### Update AirDrop.sol
 
 Add your deployed ERC20 token address
 
