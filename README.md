@@ -19,5 +19,12 @@ Sign-Up on Infura and add Infura Key
 
 Add your deployed ERC20 token address
 
+![token](https://user-images.githubusercontent.com/25963228/49645314-3b525280-fa3d-11e8-9992-8574211fef38.png)
 
+### How to Run
+
+        npm install
+        truffle compile
+        truffle migrate --network mainnet --reset
+        
 
